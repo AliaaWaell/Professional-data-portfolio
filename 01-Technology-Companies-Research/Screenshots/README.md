@@ -2,4 +2,4 @@
 
 ### Dataset
 
-![Technology Companies Database](Screenshots/database-preview.png)
+![Technology Companies Research](Screenshots/database-preview.png)
