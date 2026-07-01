@@ -5,6 +5,7 @@ Welcome to my professional portfolio showcasing projects in:
 - Data Collection
 - Data Entry
 - Data Cleaning
+- Data Analysis
 - Microsoft Excel
 - Dashboard Development
 - Web Research
