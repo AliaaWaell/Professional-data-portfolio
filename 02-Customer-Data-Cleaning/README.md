@@ -31,7 +31,7 @@ To clean, standardize, validate, and organize a customer database by removing in
 ## Workbook Structure
 - Sheet 1: Raw Data
 - Sheet 2: Cleaned Data
-- Sheet 3: Cleaning Log
+- Sheet 3: Cleaning Summary
 
 ## Result
 Prepared a structured and consistent customer database ready for reporting and business analysis.
