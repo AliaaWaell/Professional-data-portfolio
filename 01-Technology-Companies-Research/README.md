@@ -1,6 +1,7 @@
 # Technology Companies Research Database
 
 ## Project Overview
+![Technology Companies Research](Screenshots/database-preview.png)
 This project demonstrates web research, data collection, and data organization skills by building a structured database of technology companies using publicly available information from official websites and LinkedIn.
 
 ## Objective
