@@ -1,1 +1,5 @@
-Screenshots for the project.
+## Preview
+
+### Dataset
+
+![Technology Companies Database](Screenshots/database-preview.png)
