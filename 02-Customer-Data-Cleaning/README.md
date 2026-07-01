@@ -36,7 +36,7 @@ To clean, standardize, validate, and organize a customer database by removing in
 ## Result
 Prepared a structured and consistent customer database ready for reporting and business analysis.
 ### Before Cleaning
-![Raw Data](screenshots/raw-data.png)
+![Customer Data Cleaning & Preparation](Screenshots/raw-data.png)
 
 ### After Cleaning
-![Cleaned Data](screenshots/cleaned-data.png)
+![Customer Data Cleaning & Preparation](Screenshots/cleaned-data.png)
